@@ -1,0 +1,327 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gestionlugo.com.es/#organization",
+      "name": "MasterGuest",
+      "alternateName": "Gestión Lugo - Alquiler Vacacional",
+      "description": "Nos comprometemos a ofrecerte una gestión completa de tu alquiler vacacional en Lugo. Confía en nosotros para cuidar de tu propiedad mientras tú te relajas y disfrutas de los beneficios sin estrés ni preocupaciones. Gestión integral: reservas, atención 24/7, mantenimiento, limpieza y publicación en Airbnb, Booking, Vrbo, Expedia y Despegar.",
+      "url": "https://gestionlugo.com.es",
+      "telephone": "+34621325338",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+34621325338",
+        "contactType": "Gestión de alojamientos turísticos",
+        "areaServed": "Provincia de Lugo, Galicia",
+        "availableLanguage": ["Spanish", "English"]
+      },
+      "sameAs": [
+        "https://api.whatsapp.com/send?phone=34621325338"
+      ]
+    },
+    {
+      "@type": "Hotel",
+      "@id": "https://gestionlugo.com.es/propiedades/hotel-monumento-san-francisco",
+      "name": "Hotel Monumento San Francisco",
+      "description": "Antiguo convento franciscano del siglo XVIII situado dentro del casco histórico de Lugo, a 200 metros de la Muralla Romana de Lugo (Patrimonio UNESCO) y 150 metros de la Catedral de Santa María. Punto de paso del Camino Primitivo.",
+      "url": "https://www.hotelmonumentosanfrancisco.com",
+      "telephone": "+34 982 224 495",
+      "priceRange": "€€€",
+      "starRating": { "@type": "Rating", "ratingValue": "4" },
+      "brand": { "@id": "https://gestionlugo.com.es/#organization" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rúa do Miño, 1",
+        "addressLocality": "Lugo",
+        "addressRegion": "Galicia",
+        "postalCode": "27001",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.010278,
+        "longitude": -7.554167
+      },
+      "containedInPlace": {
+        "@type": "TouristDestination",
+        "name": "Lugo Ciudad",
+        "sameAs": "https://www.wikidata.org/wiki/Q11126"
+      },
+      "mentions": [
+        { "@type": "Place", "name": "Muralla Romana de Lugo", "sameAs": "https://www.wikidata.org/wiki/Q1355827" },
+        { "@type": "Place", "name": "Catedral de Lugo", "sameAs": "https://www.wikidata.org/wiki/Q1737998" },
+        { "@type": "TouristAttraction", "name": "Camino Primitivo", "sameAs": "https://www.wikidata.org/wiki/Q2001270" }
+      ],
+      "amenityFeature": [
+        {"@type": "LocationFeatureSpecification", "name": "WiFi gratuito"},
+        {"@type": "LocationFeatureSpecification", "name": "Parking"},
+        {"@type": "LocationFeatureSpecification", "name": "Restaurante gastronómico"}
+      ],
+      "image": "https://gestionlugo.com.es/images/sanfrancisco.jpg"
+    },
+    {
+      "@type": "Hotel",
+      "@id": "https://gestionlugo.com.es/propiedades/gran-hotel-lugo",
+      "name": "Gran Hotel Lugo",
+      "description": "Hotel moderno de 4 estrellas con piscina climatizada y casino, ubicado a 5 minutos en coche del centro histórico de Lugo y del recinto ferial. Ideal para turismo urbano y congresos.",
+      "url": "https://www.granhotellugo.com",
+      "telephone": "+34 982 224 444",
+      "priceRange": "€€",
+      "starRating": { "@type": "Rating", "ratingValue": "4" },
+      "brand": { "@id": "https://gestionlugo.com.es/#organization" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Avenida Ramón Ferreiro, 21",
+        "addressLocality": "Lugo",
+        "postalCode": "27002",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.003056,
+        "longitude": -7.551389
+      },
+      "containedInPlace": {
+        "@type": "TouristDestination",
+        "name": "Lugo Ciudad",
+        "sameAs": "https://www.wikidata.org/wiki/Q11126"
+      },
+      "mentions": [
+        { "@type": "Place", "name": "Muralla Romana de Lugo", "sameAs": "https://www.wikidata.org/wiki/Q1355827" },
+        { "@type": "Event", "name": "Arde Lucus", "sameAs": "https://www.wikidata.org/wiki/Q5706156" }
+      ],
+      "image": "https://gestionlugo.com.es/images/gran-hotel-lugo.jpg"
+    },
+    {
+      "@type": "BedAndBreakfast",
+      "@id": "https://gestionlugo.com.es/propiedades/pazo-orban",
+      "name": "Pazo de Orbán",
+      "description": "Pazo gallego del siglo XVIII restaurado, jardines espectaculares, situado en el casco histórico de Lugo. Experiencia de turismo rural de lujo dentro de la ciudad romana.",
+      "url": "https://www.pazodeorban.es",
+      "telephone": "+34 982 240 325",
+      "priceRange": "€€€",
+      "brand": { "@id": "https://gestionlugo.com.es/#organization" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Travesía do Miño, 6",
+        "addressLocality": "Lugo",
+        "postalCode": "27001",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.010556,
+        "longitude": -7.553611
+      },
+      "containedInPlace": {
+        "@type": "TouristDestination",
+        "name": "Lugo Ciudad",
+        "sameAs": "https://www.wikidata.org/wiki/Q11126"
+      },
+      "mentions": [
+        { "@type": "Place", "name": "Muralla Romana de Lugo", "sameAs": "https://www.wikidata.org/wiki/Q1355827" },
+        { "@type": "Place", "name": "Catedral de Lugo", "sameAs": "https://www.wikidata.org/wiki/Q1737998" }
+      ],
+      "image": "https://gestionlugo.com.es/images/pazo-orban.jpg"
+    },
+    {
+      "@type": "Hotel",
+      "@id": "https://gestionlugo.com.es/propiedades/parador-monforte",
+      "name": "Parador de Monforte de Lemos",
+      "description": "Parador Nacional ubicado en el Palacio Condal de los Lemos y Monasterio de San Vicente do Pino, en pleno corazón de la Ribeira Sacra lucense, con vistas al valle del Cabe.",
+      "url": "https://www.parador.es/es/paradores/parador-de-monforte-de-lemos",
+      "telephone": "+34 982 418 484",
+      "priceRange": "€€€",
+      "starRating": { "@type": "Rating", "ratingValue": "4" },
+      "brand": { "@id": "https://gestionlugo.com.es/#organization" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Praza Luis de Góngora y Argote, s/n",
+        "addressLocality": "Monforte de Lemos",
+        "postalCode": "27400",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 42.521389,
+        "longitude": -7.513611
+      },
+      "containedInPlace": {
+        "@type": "TouristDestination",
+        "name": "Ribeira Sacra",
+        "sameAs": "https://www.wikidata.org/wiki/Q1752338"
+      },
+      "mentions": [
+        { "@type": "Place", "name": "Ribeira Sacra", "sameAs": "https://www.wikidata.org/wiki/Q1752338" },
+        { "@type": "Place", "name": "Cañones del Sil", "sameAs": "https://www.wikidata.org/wiki/Q2936936" },
+        { "@type": "Product", "name": "D.O. Ribeira Sacra" },
+        { "@type": "Place", "name": "Monforte de Lemos", "sameAs": "https://www.wikidata.org/wiki/Q160804" }
+      ],
+      "image": "https://gestionlugo.com.es/images/parador-monforte.jpg"
+    },
+    {
+      "@type": "BedAndBreakfast",
+      "@id": "https://gestionlugo.com.es/propiedades/casa-grande-fervenza",
+      "name": "Casa Grande da Fervenza",
+      "description": "Casa rural de piedra del siglo XVII con cascada privada en el Camino Primitivo, rodeada de bosque atlántico. Experiencia de enoturismo y naturaleza en la Ribeira Sacra.",
+      "url": "https://www.casagrandefervenza.com",
+      "telephone": "+34 666 666 666",
+      "priceRange": "€€€",
+      "brand": { "@id": "https://gestionlugo.com.es/#organization" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lugar Fervenza, s/n",
+        "addressLocality": "Lugo",
+        "postalCode": "27163",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 42.866667,
+        "longitude": -7.466667
+      },
+      "containedInPlace": {
+        "@type": "TouristDestination",
+        "name": "Ribeira Sacra",
+        "sameAs": "https://www.wikidata.org/wiki/Q1752338"
+      },
+      "mentions": [
+        { "@type": "Place", "name": "Ribeira Sacra", "sameAs": "https://www.wikidata.org/wiki/Q1752338" },
+        { "@type": "TouristAttraction", "name": "Mirador de Santiorxo" },
+        { "@type": "Place", "name": "Río Miño" }
+      ],
+      "image": "https://gestionlugo.com.es/images/fervenza.jpg"
+    },
+    {
+      "@type": "Hotel",
+      "@id": "https://gestionlugo.com.es/propiedades/hotel-playa-catedrales",
+      "name": "Hotel Playa de las Catedrales",
+      "description": "Hotel boutique frente a la Playa de las Catedrales (Monumento Natural), en Ribadeo. Vistas al Cantábrico, spa y rutas de senderismo.",
+      "url": "https://www.hotelplayacatedrales.com",
+      "telephone": "+34 982 130 000",
+      "priceRange": "€€€",
+      "starRating": { "@type": "Rating", "ratingValue": "4" },
+      "brand": { "@id": "https://gestionlugo.com.es/#organization" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carretera de la Playa, s/n",
+        "addressLocality": "Ribadeo",
+        "postalCode": "27796",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.554167,
+        "longitude": -7.048056
+      },
+      "containedInPlace": {
+        "@type": "TouristDestination",
+        "name": "A Mariña Lucense",
+        "sameAs": "https://www.wikidata.org/wiki/Q9071275"
+      },
+      "mentions": [
+        { "@type": "Place", "name": "Playa de Las Catedrales", "sameAs": "https://www.wikidata.org/wiki/Q2747360" },
+        { "@type": "Place", "name": "Ribadeo", "sameAs": "https://www.wikidata.org/wiki/Q160800" }
+      ],
+      "image": "https://gestionlugo.com.es/images/playa-catedrales-hotel.jpg"
+    },
+    {
+      "@type": "Hotel",
+      "@id": "https://gestionlugo.com.es/propiedades/hotel-thalasso-cantabrico",
+      "name": "Hotel Thalasso Cantábrico",
+      "description": "Hotel con thalassoterapia y vistas a la ría de Viveiro, en A Mariña Lucense. Spa marino único en Galicia.",
+      "url": "https://www.thalassocantabrico.com",
+      "telephone": "+34 982 560 000",
+      "priceRange": "€€€",
+      "starRating": { "@type": "Rating", "ratingValue": "4" },
+      "brand": { "@id": "https://gestionlugo.com.es/#organization" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rúa do Cantábrico, 5",
+        "addressLocality": "Viveiro",
+        "postalCode": "27850",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.686389,
+        "longitude": -7.595833
+      },
+      "containedInPlace": {
+        "@type": "TouristDestination",
+        "name": "A Mariña Lucense",
+        "sameAs": "https://www.wikidata.org/wiki/Q9071275"
+      },
+      "mentions": [
+        { "@type": "Place", "name": "Ría de Viveiro" },
+        { "@type": "Place", "name": "Sargadelos", "sameAs": "https://www.wikidata.org/wiki/Q1491905" }
+      ],
+      "image": "https://gestionlugo.com.es/images/thalasso.jpg"
+    },
+    {
+      "@type": "BedAndBreakfast",
+      "@id": "https://gestionlugo.com.es/propiedades/casa-do-merlo",
+      "name": "Casa do Merlo",
+      "description": "Casa rural en la Reserva de la Biosfera Os Ancares Lucenses, arquitectura tradicional palloza restaurada, rutas de senderismo y observación de osos.",
+      "url": "https://www.casdomerlo.com",
+      "telephone": "+34 982 180 000",
+      "priceRange": "€€",
+      "brand": { "@id": "https://gestionlugo.com.es/#organization" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Piornedo, s/n",
+        "addressLocality": "Cervantes",
+        "postalCode": "27664",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 42.833333,
+        "longitude": -6.966667
+      },
+      "containedInPlace": {
+        "@type": "TouristDestination",
+        "name": "Os Ancares - O Courel",
+        "sameAs": "https://www.wikidata.org/wiki/Q10755603"
+      },
+      "mentions": [
+        { "@type": "Place", "name": "Reserva Biosfera Os Ancares Lucenses", "sameAs": "https://www.wikidata.org/wiki/Q10755603" },
+        { "@type": "Place", "name": "Palloza" }
+      ],
+      "image": "https://gestionlugo.com.es/images/casa-merlo.jpg"
+    },
+    {
+      "@type": "Hostel",
+      "@id": "https://gestionlugo.com.es/propiedades/albergue-monasterio-magdalena",
+      "name": "Albergue Monasterio de la Magdalena",
+      "description": "Antiguo monasterio convertido en albergue del Camino de Santiago Francés en Sarria. Punto de salida clásico para los últimos 100 km a Santiago.",
+      "url": "https://www.alberguemonasteriodelamagdalena.com",
+      "telephone": "+34 982 530 000",
+      "priceRange": "€",
+      "brand": { "@id": "https://gestionlugo.com.es/#organization" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rúa do Monasterio, 2",
+        "addressLocality": "Sarria",
+        "postalCode": "27600",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 42.778056,
+        "longitude": -7.414167
+      },
+      "containedInPlace": {
+        "@type": "TouristDestination",
+        "name": "Camino de Santiago Lugo",
+        "sameAs": "https://www.wikidata.org/wiki/Q1072865"
+      },
+      "mentions": [
+        { "@type": "TouristAttraction", "name": "Camino de Santiago Francés", "sameAs": "https://www.wikidata.org/wiki/Q1072865" },
+        { "@type": "Place", "name": "Sarria", "sameAs": "https://www.wikidata.org/wiki/Q160799" }
+      ],
+      "image": "https://gestionlugo.com.es/images/monasterio-magdalena.jpg"
+    }
+  ]
+}

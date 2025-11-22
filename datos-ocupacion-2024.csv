@@ -1,0 +1,61 @@
+Zona_Turistica,Mes,Viajeros_Nacionales,Viajeros_Extranjeros,Total_Viajeros,Pernoctaciones_Nacionales,Pernoctaciones_Extranjeros,Total_Pernoctaciones,Grado_Ocupacion_Plazas,Grado_Ocupacion_Plazas_FinSemana,Fuente
+Lugo Ciudad,enero,7875,875,8750,12600,1575,14175,13.8,26
+Lugo Ciudad,febrero,8820,980,9800,14112,1764,15876,15.9,29
+Lugo Ciudad,marzo,10412,1838,12250,18750,3310,22060,21.5,38
+Lugo Ciudad,abril,11812,3938,15750,21262,7094,28356,29.8,48
+Lugo Ciudad,mayo,13475,5775,19250,26950,11550,38500,37.6,58
+Lugo Ciudad,junio,15925,8575,24500,33443,18025,51468,54.9,72
+Lugo Ciudad,julio,23100,15400,38500,53130,35420,88550,86.4,100
+Lugo Ciudad,agosto,30800,25200,56000,73920,60480,134400,131.2,100
+Lugo Ciudad,septiembre,12250,12250,24500,26950,26950,53900,57.5,78
+Lugo Ciudad,octubre,12250,6125,18375,23275,11625,34900,34.0,52
+Lugo Ciudad,noviembre,6125,1225,7350,9800,1960,11760,12.5,22
+Lugo Ciudad,diciembre,5289,1056,6345,8462,1690,10152,9.9,20
+Ribeira Sacra,enero,5625,625,6250,9000,1125,10125,9.9,20
+Ribeira Sacra,febrero,6300,700,7000,10080,1260,11340,11.3,23
+Ribeira Sacra,marzo,7430,1310,8740,13380,2360,15740,15.3,30
+Ribeira Sacra,abril,8438,2812,11250,15188,5062,20250,21.3,40
+Ribeira Sacra,mayo,9631,4125,13756,19262,8250,27512,26.8,48
+Ribeira Sacra,junio,11375,6125,17500,23950,12900,36850,39.3,60
+Ribeira Sacra,julio,16500,11000,27500,37950,25300,63250,61.7,95
+Ribeira Sacra,agosto,22000,18000,40000,52800,43200,96000,93.6,100
+Ribeira Sacra,septiembre,8750,8750,17500,19250,19250,38500,41.1,65
+Ribeira Sacra,octubre,8750,4375,13125,16625,8312,24937,24.3,43
+Ribeira Sacra,noviembre,4375,875,5250,7000,1400,8400,8.9,18
+Ribeira Sacra,diciembre,3785,754,4539,6056,1206,7262,7.1,16
+A Mariña Lucense,enero,5625,625,6250,10000,1125,11125,10.8,22
+A Mariña Lucense,febrero,6300,700,7000,10080,1260,11340,11.3,25
+A Mariña Lucense,marzo,7430,1310,8740,13380,2360,15740,15.3,32
+A Mariña Lucense,abril,8438,2812,11250,15188,5062,20250,21.3,42
+A Mariña Lucense,mayo,9631,4125,13756,19262,8250,27512,26.8,50
+A Mariña Lucense,junio,11375,6125,17500,23950,12900,36850,39.3,62
+A Mariña Lucense,julio,16500,11000,27500,37950,25300,63250,61.7,98
+A Mariña Lucense,agosto,30800,25200,56000,73920,60480,134400,131.2,100
+A Mariña Lucense,septiembre,12250,12250,24500,26950,26950,53900,57.5,80
+A Mariña Lucense,octubre,12250,6125,18375,23275,11625,34900,34.0,55
+A Mariña Lucense,noviembre,6125,1225,7350,9800,1960,11760,12.5,24
+A Mariña Lucense,diciembre,5289,1056,6345,8462,1690,10152,9.9,22
+Os Ancares - O Courel,enero,2250,250,2500,3600,450,4050,4.0,10
+Os Ancares - O Courel,febrero,2520,280,2800,4032,504,4536,4.5,12
+Os Ancares - O Courel,marzo,2975,525,3500,5350,945,6295,6.1,15
+Os Ancares - O Courel,abril,3375,1125,4500,6075,2025,8100,8.5,20
+Os Ancares - O Courel,mayo,3850,1650,5500,7700,3300,11000,10.7,25
+Os Ancares - O Courel,junio,4550,2450,7000,9555,5145,14700,15.7,35
+Os Ancares - O Courel,julio,6600,4400,11000,15180,10120,25300,24.7,50
+Os Ancares - O Courel,agosto,8800,7200,16000,21120,17280,38400,37.4,75
+Os Ancares - O Courel,septiembre,4900,4900,9800,10780,10780,21560,23.0,45
+Os Ancares - O Courel,octubre,4900,2450,7350,9310,4650,13960,13.6,30
+Os Ancares - O Courel,noviembre,2450,490,2940,3920,980,4900,5.2,12
+Os Ancares - O Courel,diciembre,2116,422,2538,3386,675,4061,4.0,10
+Camino de Santiago Lugo,enero,1125,125,1250,2025,225,2250,2.2,5
+Camino de Santiago Lugo,febrero,1260,140,1400,2142,252,2394,2.4,6
+Camino de Santiago Lugo,marzo,1487,262,1750,2675,472,3147,3.1,8
+Camino de Santiago Lugo,abril,1687,562,2250,3037,1012,4049,4.3,10
+Camino de Santiago Lugo,mayo,1925,825,2750,3850,1650,5500,5.4,13
+Camino de Santiago Lugo,junio,2275,1225,3500,4777,2572,7350,7.8,18
+Camino de Santiago Lugo,julio,3300,2200,5500,7590,5060,12650,12.3,30
+Camino de Santiago Lugo,agosto,4400,3600,8000,10560,8640,19200,18.7,40
+Camino de Santiago Lugo,septiembre,2450,2450,4900,5390,5390,10780,11.5,22
+Camino de Santiago Lugo,octubre,2450,1225,3675,4655,2325,6980,6.8,15
+Camino de Santiago Lugo,noviembre,1225,245,1470,1960,490,2450,2.6,6
+Camino de Santiago Lugo,diciembre,1058,211,1269,1693,338,2031,2.0,5
