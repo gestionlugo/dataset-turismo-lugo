@@ -1,6 +1,6 @@
 # Dataset Turismo Provincia de Lugo - Datos Abiertos 2024-2025
 
-![Turismo Lugo](images/lugo.jpg)
+![Turismo Lugo](lugo.jpg)
 
 Dataset turístico oficial y abierto de la Provincia de Lugo (Galicia)  
 Datos reales de ocupación hotelera 2024 (INE), propiedades gestionadas con Schema.org completo, normativa VUT Galicia actualizada 2025 y recursos optimizados para entidades turísticas
